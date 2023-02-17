@@ -71,7 +71,7 @@ For each cell in the table below:
 Modify the command above for the corresponding search function and value of `n`;
 measure the runtime and enter it into the table.
 
-|                | `sequential_search_itr`   | `binary_search_rec`   |
+|                | `sequential_search_itr in usec`   | `binary_search_rec in usec`   |
 | -------------- | ------------------------- | --------------------- | 
 | `n=2**0`       |          0.134            |        0.731          |
 | `n=2**1`       |          0.182            |       0.973           |
